@@ -15,8 +15,6 @@ import axios from "axios";
 import searchBar from "./components/searchBar.vue";
 import videoList from "./components/videoList";
 import videoDetail from "./components/videoDetail"
-// const API_KEY = "AIzaSyCLSzM3eCwwNb5zdgl-ghPc5oyauAgYhV4";
-const API_KEY = "AIzaSyCVHKlNRUY-P4Khii0Kcx73pzoMpwYqOe8";
 
 export default {
   name: "App",
